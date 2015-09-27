@@ -48,7 +48,6 @@
 >* After effects
 >* Php Storm
 >* Indesign
->* ...
 ***
 >##Contact information
 >You can contact me via:
