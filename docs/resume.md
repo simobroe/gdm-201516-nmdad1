@@ -39,6 +39,7 @@
 >* php
 >* markdown
 >* SQL
+>
 ***
 >##Software knowledge
 >I can work with all kinds of software like:
@@ -48,6 +49,7 @@
 >* After effects
 >* Php Storm
 >* Indesign
+>
 ***
 >##Contact information
 >You can contact me via:
